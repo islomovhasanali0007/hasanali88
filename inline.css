@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+}
+.container1 {
+display: flex;
+}
+.q1 {
+  width: 5px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: red;
+  margin: 10px;
+  padding: 100px;
+}
+.q2 {
+  width: 5px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: red;
+  margin: 10px;
+  padding: 100px;
+}
+.q3 {
+  width: 5px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: red;
+  margin: 10px;
+  padding: 100px;
+}
+.q4 {
+  width: 5px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: red;
+  margin: 10px;
+  padding: 100px;
+}
+.q5 {
+  width: 5px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: red;
+  margin: 10px;
+  padding: 100px;
+}
+.q6 {
+  width: 5px;
+  height: 5px;
+  border-radius: 10px;
+  background-color: red;
+  margin: 10px;
+  padding: 100px;
+}
